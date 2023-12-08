@@ -1,8 +1,11 @@
 USIU-AFRICA LIBRARY REDESIGN
+
 Project undertaken in partial fulfillment of undergraduate requirements for the Bachelor of Science in Applied Computer Technology at USIU-Africa
+
 AUTHOR: Nigel Maiyo
 
 INSTRUCTIONS FOR LOCAL DEPLOYMENT:
+
 Front-end:
 - Navigate to library-site within command prompt
 - Enter the command python -m http.server [XXXX] where [XXXX] is a 4 digit port of your choice
